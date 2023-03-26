@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **leenodeh287@gmail.com**
+-  ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
