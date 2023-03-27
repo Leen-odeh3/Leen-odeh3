@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** ,  **ASP.NET Core framework** ,  **Android**
 
 - 📫 How to reach me **leenodeh287@gmail.com**
 -  ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
