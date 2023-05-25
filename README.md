@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **React, JAVA, Data Structure**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tmqJv1-PuGKj0xGKhE8DrgKi7AVUw0Se/view?usp=share_link](https://drive.google.com/file/d/1tmqJv1-PuGKj0xGKhE8DrgKi7AVUw0Se/view?usp=share_link)
 
 - 🥅 2024 Goals **To be profficient in .Net Dev**
 - 🌱 I’m currently learning **ReactJS** ,  **Android**
