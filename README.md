@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif"width="90px">, Nice to see you.</h1>
-<h3 align="center">I am a Front-End Developer <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
+<h3 align="center">I am a Full Stack Developer <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
 
 <p>I am a highly motivated and detail-oriented developer who is always looking for ways to streamline processes and improve efficiency. I have experience working with a variety of programming languages and frameworks, including JavaScript, React. I believe that technology has the power to make our lives easier and more efficient, and I am committed to leveraging my skills and experience to help you achieve your goals. Whether you need help with a specific project, or you just want to learn more about my expertise, I am here to help. I am always looking for new challenges and opportunities to grow, and I am always willing to go the extra mile to ensure that your project is completed to the highest standards.</p>
 <br>
