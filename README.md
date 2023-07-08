@@ -9,19 +9,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
+
 - 👨‍💻All of my projects are available at [https://github.com/Leen-odeh12](https://github.com/Leen-odeh12)
 
 - 💬 Ask me about **React, JAVA, Data Structure**
-
+- 📚 I’m currently focusing on **Data Structure**
 
 - 🥅 2024 Goals **To be profficient in .Net Dev**
-- 🌱 I’m currently learning **ReactJS** 
+- 🌱 I’m currently learning **ReactJS** and **ASP.NET with Entity Framework**
 
 - 📫 How to reach me **leenodeh287@gmail.com**
 -  ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me : <br><br>
+
+</h3>
 <p align="left">
 <a href="https://codepen.io/leen_odeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="leen_odeh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leen-odeh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leen-odeh3" height="30" width="40" /></a>
