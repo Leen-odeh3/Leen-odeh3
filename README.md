@@ -12,10 +12,6 @@
 - 👨‍🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
 
 - 👨‍💻All of my projects are available at [https://github.com/Leen-odeh12](https://github.com/Leen-odeh12)
-
-- 💬 Ask me about **React, JAVA, Data Structure**
-- 📚 I’m currently focusing on **Data Structure**
-
 - 🥅 2024 Goals **To be profficient in .Net Dev**
 - 🌱 I’m currently learning **ReactJS** and **ASP.NET with Entity Framework**
 
