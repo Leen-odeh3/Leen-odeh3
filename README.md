@@ -17,8 +17,8 @@ I am a highly motivated and detail-oriented developer who is always looking for 
 <h3 align="left">Social 🎲</h3>
 <p align="left">
 <a 
-href=" https://linkedin.com/in/https://www.linkedin.com/in/leen-odeh3/" 
-target="blank">
+href="https://www.linkedin.com/in/leen-odeh3/" 
+target="_blank">
   <img 
     align="center" 
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -26,8 +26,8 @@ target="blank">
    />
 </a>
 <a 
-href=" https://www.facebook.com/profile.php?id=100045529333705" 
-target="blank">
+href="https://www.facebook.com/profile.php?id=100045529333705" 
+target="_blank">
   <img 
     align="center" 
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -35,33 +35,19 @@ target="blank">
    />
 </a>
 <a 
-href=" https://codepen.io/https://codepen.io/leen_odeh" 
-target="blank">
+href="https://codepen.io/leen_odeh" 
+target="_blank">
   <img 
     align="center" 
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
     alt="Leen Odeh" 
    />
 </a>
+
 <!-- ----------- End Social ----------- -->
 
 <hr />
 
-<!-- ----------- Start Email ----------- -->
-<h3 align="left">Email 📩</h3>
-<a 
-href="mailto:leenodeh287@gmail.com" 
-target="blank">
-  <img 
-    align="center" 
-    src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"
-    alt="faris-abuali" 
-   />
-</a>
-
-<!-- ----------- End Email ----------- -->
-
-<hr />
 
 <!-- ----------- Start Languages and Tools ----------- -->
 
