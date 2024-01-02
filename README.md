@@ -1,7 +1,6 @@
 
 <h1 align="center"> Hi, I'm Leen Odeh </h1>
 <h4 align="center"> Full Stack Developer 🖥 ⌛️</h4>
-I am a highly motivated and detail-oriented developer who is always looking for ways to streamline processes and improve efficiency. I have experience working with a variety of programming languages and frameworks, including JavaScript, React. I believe that technology has the power to make our lives easier and more efficient, and I am committed to leveraging my skills and experience to help you achieve your goals. Whether you need help with a specific project, or you just want to learn more about my expertise, I am here to help. I am always looking for new challenges and opportunities to grow, and I am always willing to go the extra mile to ensure that your project is completed to the highest standards.<br/> <br/> <br/>
 
 - 👨‍🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
  
