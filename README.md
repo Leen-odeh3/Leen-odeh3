@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi, I'm Leen Odeh </h1>
-<h4 align="center"> Full Stack Developer 🖥 ⌛️</h4>
+<h4 align="center">I’m a ambitious and self taught Full-stack developer 🖥️</h4>
 
 - 👨‍🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
  
