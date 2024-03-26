@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, .net, C#,TypeScript, and MYSQL.
 
-- ⛳️ I’m currently learning **ReactJS** and **ASP.NET with Entity Framework**
+- ⛳️ I’m currently learning **ASP.NET with Entity Framework**
 
 - 📫 How to reach me **leenodeh287@gmail.com**
   
