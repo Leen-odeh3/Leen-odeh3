@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **leenodeh287@gmail.com**
   
-- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)<br>
+- ⚡ Fun fact: I like  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) <br> 
 
 <!-- ----------- Start How to Connect ----------- -->
 <br/>
