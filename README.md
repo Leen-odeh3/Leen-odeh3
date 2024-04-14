@@ -2,10 +2,10 @@
 <h1 align="center"> Hi, I'm Leen Odeh </h1>
 <h4 align="center">I’m a ambitious and self taught Full-stack developer 🖥️</h4>
 
-- 👨‍🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
+ I'm a highly skilled and experienced Full Stack Developer specializing in Dot Net and JAMstack (JavaScript, APIs, and Markup) development. I provide a wide range of services, from creating simple yet elegant websites like portfolios, landing pages, and blog applications to developing comprehensive e-commerce marketplaces like Amazon and Flipkart. All my projects are meticulously crafted to be full stack and production-ready, ensuring seamless functionality and optimal performance.
  
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, .net, C#,TypeScript, and MYSQL.
-
+- 🖥️ See my portfolio at <a href="https://leen-odeh-personal-portfolio.netlify.app/">here</a>
+- 👨‍🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
 - ⛳️ I’m currently learning **ASP.NET with Entity Framework**
 
 - 📫 How to reach me **leenodeh287@gmail.com**
