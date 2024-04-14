@@ -4,7 +4,7 @@
 
  I'm a highly skilled and experienced Full Stack Developer specializing in Dot Net and JAMstack (JavaScript, APIs, and Markup) development. I provide a wide range of services, from creating simple yet elegant websites like portfolios, landing pages, and blog applications to developing comprehensive e-commerce marketplaces like Amazon and Flipkart. All my projects are meticulously crafted to be full stack and production-ready, ensuring seamless functionality and optimal performance.
  
-- 🖥️ See my portfolio at <a href="https://leen-odeh-personal-portfolio.netlify.app/">here</a>
+- 🖥️ See my portfolio at <a href="https://leen-odeh-personal-portfolio.netlify.app/" target="_blank">here</a>
 - 👨‍🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
 - ⛳️ I’m currently learning **ASP.NET with Entity Framework**
 
