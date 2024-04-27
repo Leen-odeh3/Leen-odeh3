@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Leen Odeh </h1>
 <h4 align="center">I’m a ambitious and self taught Full-stack developer 📈</h4>
 
-- ⚙️ See my portfolio at <a href="https://leen-odeh-personal-portfolio.netlify.app/" target="_blank">here</a>
+- ⚙️ See my portfolio at <a href="https://leen-odeh-personal-portfolio.netlify.app/" target="_blank">here<sup>💕</sup></a>
 - 🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
 - 📩 How to reach me **leenodeh287@gmail.com**
   
