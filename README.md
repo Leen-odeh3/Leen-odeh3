@@ -112,3 +112,4 @@ target="_blank">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leen-odeh3&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leen-odeh3&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
 
+###### Thanks for stopping by my GitHub profile! I'm always exploring new technologies and finding ways to integrate them into practical, real-world applications. Stay tuned for updates on my latest projects and experiments.
