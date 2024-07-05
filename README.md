@@ -3,7 +3,7 @@
 <h4 align="center">I’m a ambitious and self taught Full-stack developer 📈</h4>
 
 - ⚙️ See my portfolio at <a href="https://leen-odeh-personal-portfolio.netlify.app/" target="_blank">here<sup>💕</sup></a>
-- 🎓 I’m currently studying Computer Systems Engineering at Palestine Technical University - Kadoorie.
+- 🎓 Fresh graduate of Computer Systems Engineering at Palestine Technical University - Kadoorie.
 - 📩 How to reach me **leenodeh287@gmail.com**
   
 - ⚡ Fun fact: I like  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) <br> 
